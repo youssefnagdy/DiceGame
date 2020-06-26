@@ -1,2 +1,2 @@
 # DiceGame
-Builded a Dice Game JavaScript #DOM
+Build a Dice Game JavaScript #DOM
